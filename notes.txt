@@ -1,0 +1,4 @@
+*db structure:
+  category (id, name)
+
+  post (id, category_id, title, body)
